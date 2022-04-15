@@ -27,6 +27,5 @@ In mutex, the lock can be acquired and released by the same process at a time. B
  
 Mail: enessah200@gmail.com  
 LinkedIn: [enes-sahinn](https://www.linkedin.com/in/enes-sahinn/)
-
 Project Link: [Hospital-Simulation](https://github.com/enes-sahinn/Hospital-Simulation)
 
