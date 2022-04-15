@@ -24,8 +24,8 @@ A mutex object allows multiple process threads to access a single shared resourc
 In mutex, the lock can be acquired and released by the same process at a time. But the value of the semaphore variable can be modified by any process that needs some resource but only one process can change the value at a time.
 
 ## Contact
- 
+
+Twitter: [linkedin.com/in/enes-sahinn](https://www.linkedin.com/in/enes-sahinn/) 
 Mail: enessah200@gmail.com  
-LinkedIn: [enes-sahinn](https://www.linkedin.com/in/enes-sahinn/)
 Project Link: [Hospital-Simulation](https://github.com/enes-sahinn/Hospital-Simulation)
 
